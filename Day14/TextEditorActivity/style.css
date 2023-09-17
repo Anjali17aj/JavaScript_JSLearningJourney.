@@ -1,0 +1,16 @@
+body {
+    
+    text-align: center;
+    margin: 150px;
+    background-color: blanchedalmond;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+#text {
+    color: mediumslateblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
